@@ -1,0 +1,14 @@
+org/elasticsearch/analyzer/tokenfilters/PersianStopFilter.class
+org/elasticsearch/analyzer/tokenfilters/PersianNormalizationFilter.class
+org/elasticsearch/analyzer/tokenfilters/PersianStopFilterFactory.class
+org/elasticsearch/analyzer/tokenfilters/PersianNormalizationFilterFactory.class
+org/elasticsearch/analyzer/ParsiAnalyzer.class
+org/elasticsearch/analyzer/characterfilters/ZeroWidthNonJoinerCharFilterFactory.class
+org/elasticsearch/analyzer/ParsiStandardAnalyzerProvider.class
+org/elasticsearch/analyzer/ParsiAnalyzerPlugin.class
+org/elasticsearch/analyzer/tokenfilters/PersianNormalizer.class
+org/elasticsearch/analyzer/tokenfilters/PersianStemFilter.class
+org/elasticsearch/analyzer/tokenfilters/PersianStemFilterFactory.class
+org/elasticsearch/analyzer/ParsiAnalyzerProvider.class
+org/elasticsearch/analyzer/ParsiStandardAnalyzer.class
+org/elasticsearch/analyzer/characterfilters/ZeroWidthNonJoinerCharFilter.class

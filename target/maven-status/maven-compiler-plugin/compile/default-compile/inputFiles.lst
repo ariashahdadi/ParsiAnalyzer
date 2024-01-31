@@ -1,0 +1,14 @@
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/ParsiStandardAnalyzer.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/ParsiAnalyzerProvider.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianStemFilterFactory.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianStopFilter.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianStopFilterFactory.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianNormalizationFilterFactory.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/characterfilters/ZeroWidthNonJoinerCharFilterFactory.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/ParsiAnalyzerPlugin.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianNormalizer.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianStemFilter.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/ParsiAnalyzer.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/ParsiStandardAnalyzerProvider.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/tokenfilters/PersianNormalizationFilter.java
+/mnt/f/projects/ParsiAnalyzer/src/main/java/org/elasticsearch/analyzer/characterfilters/ZeroWidthNonJoinerCharFilter.java
